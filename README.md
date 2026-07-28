@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/data_wharehouse_architecture.png" alt="Data Warehouse and Analytics Project Banner" width="100%">
+</p>
+
 # sql_data_warehouse
 Building a modern data warehouse with SQL server, including ELT process, data modeling and analytics.
 
